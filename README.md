@@ -1,2 +1,9 @@
 # simplemanagementsystem
 This is a simple management system in php
+
+
+This is the cms project work done to enhance adequate knowledge in php
+
+A good and perfect work done although the design work is scheduled for another time
+
+Also bootstrap and css was used together although the nav could have been solely done using only bootstrap but i've kept it as it is
